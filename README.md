@@ -1,11 +1,24 @@
 # Welcome! 😄
 
+###Tech Stack
+Techs that i've used at least one
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
+
+
+
+
+
 ### My App(Android/iOS - Flutter) 
 
-<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Appstore&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Googleplay&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-414141?style=flat-square&logo=Googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-0D96F6?style=flat-square&logo=Appstore&logoColor=white"/></a>
 </br>
-<a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-E75480?style=flat-square&logo=Googleplay&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-414141?style=flat-square&logo=Googleplay&logoColor=white"/></a>
 
 
 
