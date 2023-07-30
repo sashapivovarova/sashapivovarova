@@ -1,11 +1,11 @@
-## Welcome! 😄
+# Welcome! 😄
 
-### My App(Android/iOS - Flutter) 😄
+### My App(Android/iOS - Flutter) 
 
-<img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Appstore&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Appstore&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Googleplay&logoColor=white"/></a>
 </br>
-<img src="https://img.shields.io/badge/Pomodoro-E75480?style=flat-square&logo=Googleplay&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-E75480?style=flat-square&logo=Googleplay&logoColor=white"/></a>
 
 
 
