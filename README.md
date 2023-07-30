@@ -1,4 +1,4 @@
-### Welcome to my github 😄
+## Welcome! 😄
 
 <img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Appstore&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/StickyNotes-8B8000?style=flat-square&logo=Googleplay&logoColor=white"/></a>
