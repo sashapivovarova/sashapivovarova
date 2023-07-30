@@ -1,5 +1,8 @@
 ### Welcome to my github 
 
+<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shieds.io/badge/StickyNotes-b5ebc2?style=fot-the-badge&logo=blogger&logoColor=darkgreen"/></a>
+
+
 <!--
 **sashapivovarova/sashapivovarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
