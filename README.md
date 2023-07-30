@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my github 
 
 <!--
 **sashapivovarova/sashapivovarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shieds.io/badge/StickyNotes-grey?style=flat&logo=#0D96F6&logoColor=white"/></a>
+
 -->
