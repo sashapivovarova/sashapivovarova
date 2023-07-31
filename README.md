@@ -1,5 +1,16 @@
 # Welcome! 😄
 
+## Portfolio
+### My App(Android/iOS - Flutter) 
+
+<a href="https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-414141?style=for-the-badge&logo=Googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-0D96F6?style=for-the-badge&logo=Appstore&logoColor=white"/></a>
+</br>
+<a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-414141?style=for-the-badge&logo=Googleplay&logoColor=white"/></a>
+
+### My Blog
+<a href="https://zenn.dev/eunsol_seo" target="_blank"><img src="https://img.shields.io/badge/Zenn-#3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white"/></a>
+
 ## Tech Stack
 Techs that i've used at least one
 
@@ -21,30 +32,13 @@ Techs that i've used at least one
 
 ### 📋 Languages
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></a>
-
-<img src=""/></a>
-
-### My App(Android/iOS - Flutter) 
-
-<a href="https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-414141?style=flat-square&logo=Googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-0D96F6?style=flat-square&logo=Appstore&logoColor=white"/></a>
-</br>
-<a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-414141?style=flat-square&logo=Googleplay&logoColor=white"/></a>
-
-### My Blog
-
-<a href="https://zenn.dev/eunsol_seo" target="_blank"><img src="https://img.shields.io/badge/Zenn-#3EA8FF?style=flat-square&logo=Zenn&logoColor=white"/></a>
-
-
-
-
 
 
 <!--
