@@ -11,6 +11,9 @@
 ### My Blog
 <a href="https://zenn.dev/eunsol_seo" target="_blank"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white"/></a>
 
+### My Site
+<a href="https://seoeunsolportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Site-FF5D01?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
 ## Tech Stack
 Techs that i've used at least one
 
