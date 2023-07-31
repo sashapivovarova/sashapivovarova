@@ -9,7 +9,7 @@
 <a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-414141?style=for-the-badge&logo=Googleplay&logoColor=white"/></a>
 
 ### My Blog
-<a href="https://zenn.dev/eunsol_seo" target="_blank"><img src="https://img.shields.io/badge/Zenn-#3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white"/></a>
+<a href="https://zenn.dev/eunsol_seo" target="_blank"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white"/></a>
 
 ## Tech Stack
 Techs that i've used at least one
