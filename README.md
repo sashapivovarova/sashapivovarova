@@ -1,5 +1,3 @@
-# Welcome! 😄
-
 ## Portfolio
 ### My App(Android/iOS - Flutter) 
 
