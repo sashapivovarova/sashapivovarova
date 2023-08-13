@@ -9,7 +9,7 @@
 
 ### My Blog
 
-<a href="https://eunsol-blo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Blog-FF5D01?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://eunsol-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Blog-FF5D01?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ## Tech Blog
 
