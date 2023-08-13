@@ -7,9 +7,9 @@
 </br>
 <a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-414141?style=for-the-badge&logo=Googleplay&logoColor=white"/></a>
 
-### My Website
+### My Blog
 
-<a href="https://seoeunsolportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Website-FF5D01?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://eunsol-blo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Blog-FF5D01?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ## Tech Blog
 
