@@ -1,35 +1,27 @@
-## Portfolio 
+## 💁‍♀️ I'm...
 
-### Android/iOS - Flutter
-
-<a href="https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-414141?style=for-the-badge&logo=Googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037" target="_blank"><img src="https://img.shields.io/badge/StickyNotes-0D96F6?style=for-the-badge&logo=Appstore&logoColor=white"/></a>
-</br>
-<a href="https://play.google.com/store/apps/details?id=pomodoro.simple.version" target="_blank"><img src="https://img.shields.io/badge/Pomodoro-414141?style=for-the-badge&logo=Googleplay&logoColor=white"/></a>
-
-### My Blog
-
-<a href="https://eunsol-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Blog-FF5D01?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-## Tech Blog
-
-<a href="https://zenn.dev/eunsol_seo" target="_blank"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white"/></a>
+- Eunsol
 
 ## 💕 Love to use
 
-### 📚 Frameworks
+- Flutter, Dart
 
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
+##  Tech Blog
 
-### 📋 Languages
+- My Blog: https://eunsol-blog.vercel.app/
+- Zenn: https://zenn.dev/eunsol_seo
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a>
+## My Portfolio
+- Sticky Notes - Simple Version
+  - iOS: https://apps.apple.com/gb/app/sticky-notes-simple-version/id6449781037
+  - Android: https://play.google.com/store/apps/details?id=eunsol.note.sticky.stickynotes
+- Pomodoro - Simple Version
+  - https://play.google.com/store/apps/details?id=pomodoro.simple.version
 
-### ☁️ PaaS
-
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+## 📊 Static
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashapivovarova&layout=compact)
+
 <!--
 **sashapivovarova/sashapivovarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
