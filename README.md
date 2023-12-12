@@ -4,7 +4,7 @@
 
 ## 💕 Love to use
 
-- Flutter, Dart, Swift, Swift UI
+- Flutter, Dart, Swift UI, Swift
 
 ##  Tech Blog
 
