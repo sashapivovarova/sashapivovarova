@@ -23,7 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashapivovarova&layout=compact)
 
 ## 🔭 AWS
-[![Credly Badge](https://images.credly.com/size/220x220/images/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/badge-name.png)](https://www.credly.com/badges/0a27f284-1bf9-47e9-b9fc-c6c82bc3c75d/public_url)
+![Credly Badge](https://www.credly.com/badges/0a27f284-1bf9-47e9-b9fc-c6c82bc3c75d/public_url)
 
 
 <!--
