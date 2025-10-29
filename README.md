@@ -28,6 +28,9 @@
 
 ## 🔭 Microsoft
 [![Credly Badge](https://images.credly.com/size/100x150/images/b71dc39d-b290-4fb6-ad07-6130c6409130/converted20251029-31-qu7gla.png)](https://learn.microsoft.com/api/credentials/share/en-us/EunsolSeo-7516/7FE0A5F714A5ACBC?sharingId=86E0684D64157864)
+[![Credly Badge](https://learn.microsoft.com/media/learn/certification/badges/size/100x150/microsoft-certified-associate-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/EunsolSeo-7516/7FE0A5F714A5ACBC?sharingId=86E0684D64157864)
+
+
 <!--
 **sashapivovarova/sashapivovarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
