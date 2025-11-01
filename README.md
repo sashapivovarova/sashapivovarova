@@ -31,6 +31,8 @@
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120"/>
 </a>
 
+## 🔭 Google
+[![Credly Badge](https://images.credly.com/size/100x150/images/aae35976-6fff-441c-9ecc-186d56f6f669/blob)](https://www.credly.com/badges/eb058068-723e-4486-b367-39ab32cbd2fd/public_url)
 <!--
 **sashapivovarova/sashapivovarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
